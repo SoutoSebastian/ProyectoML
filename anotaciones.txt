@@ -1,0 +1,3 @@
+https://www.kaggle.com/c/bank-marketing-uci
+comentar el código y expandir análisis exploratorio
+ordenar todo
