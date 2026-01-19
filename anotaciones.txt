@@ -1,2 +1,0 @@
-https://www.kaggle.com/c/bank-marketing-uci
-Agregar comentarios faltantes, conslusion y pasarlo a ingles.  

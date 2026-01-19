@@ -16,6 +16,8 @@ Given the business context, **recall for the positive class (subscribers)** is c
 
 The dataset was obtained from **Kaggle** and contains information related to direct marketing campaigns conducted by a banking institution.
 
+https://www.kaggle.com/c/bank-marketing-uci
+
 It includes:
 - Client demographic features (age, job, education, etc.)
 - Financial information (housing loan, personal loan, balance)
